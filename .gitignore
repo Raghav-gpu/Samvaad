@@ -47,3 +47,5 @@ app.*.map.json
 
 # .env file should not be committed to version control
 .env
+
+server/
